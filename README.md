@@ -4,6 +4,8 @@
 - Support live playback of videos.
 - Support encrypted videos.
 
+[releases ➡️](https://github.com/BreakOnCrash/xetVideoDownloader/releases)
+
 ## Usage
 
 1. Find the m3u8 URL
